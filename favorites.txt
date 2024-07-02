@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Pizza
 Sushi
 Ice Cream
+=======
+Inception
+The Martix
+Interstellar
+>>>>>>> movies
